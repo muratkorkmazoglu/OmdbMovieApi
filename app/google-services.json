@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369654741443",
+    "firebase_url": "https://movieapp-remoteconfig.firebaseio.com",
+    "project_id": "movieapp-remoteconfig",
+    "storage_bucket": "movieapp-remoteconfig.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369654741443:android:f897974beaa849f7",
+        "android_client_info": {
+          "package_name": "com.murat.movieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369654741443-fd5678r95ka7cccnv22581kovupva91h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murat.movieapp",
+            "certificate_hash": "10865f1164dc0cbbae5e66d8ba9a2af8e65782fc"
+          }
+        },
+        {
+          "client_id": "369654741443-go1amjngftov7d2k811jsud6kgt3gqpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gktoBn0HhpIZ9czZqFOsK5hugtXnY88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369654741443-go1amjngftov7d2k811jsud6kgt3gqpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
