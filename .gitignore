@@ -1,2 +1,5 @@
 .gradle/
-.idea/
+.idea
+Android App/.gradle/
+Android App/.idea/
+Android App/Android App.iml
